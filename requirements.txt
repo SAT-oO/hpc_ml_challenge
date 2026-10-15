@@ -1,0 +1,9 @@
+torch>=2.2.0
+transformers>=4.40.0
+scikit-learn>=1.4.0
+soundfile>=0.12.1
+scipy>=1.12.0
+sounddevice>=0.4.6
+pandas>=2.2.0
+tqdm>=4.66.0
+huggingface_hub>=0.23.0
